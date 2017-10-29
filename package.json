@@ -1,0 +1,22 @@
+{
+  "name": "intellect_assignment",
+  "version": "1.0.0",
+  "description": "\"# IntellectAssignment\"",
+  "main": "bin/www",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shailesh dhobale",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.4",
+    "body-parser": "~1.15.2",
+    "config": "^1.25.1",
+    "express": "~4.14.0",
+    "https": "^1.0.0",
+    "lodash": "^4.17.4",
+    "log4js": "^1.1.0",
+    "mongoose": "4.4.4",
+    "path": "^0.12.7"
+  }
+}
